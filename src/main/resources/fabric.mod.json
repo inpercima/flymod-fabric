@@ -6,7 +6,8 @@
   "name": "Walaryne's Fly Mod",
   "description": "A simple serverside mod for flight (works in SP too!)",
   "authors": [
-    "Walaryne"
+    "Walaryne",
+    "inpercima"
   ],
   "contact": {
     "homepage": "https://www.curseforge.com/minecraft/mc-mods/walarynes-flymod",
@@ -24,7 +25,7 @@
   },
 
   "depends": {
-    "fabricloader": ">=0.11.3",
+    "fabricloader": ">=0.12.12",
     "fabric": "*",
     "minecraft": "1.18.x",
     "java": ">=17"
